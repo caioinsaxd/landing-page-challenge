@@ -3,11 +3,11 @@ import Logo from './ui/Logo'
 import Button from './ui/Button'
 
 const navItems = [
-  { label: 'About us', href: '/about' },
-  { label: 'Services', href: '/services' },
-  { label: 'Use Cases', href: '/#cases' },
-  { label: 'Pricing', href: '/pricing' },
-  { label: 'Blog', href: '/articles' },
+  { label: 'About us', href: 'https://www.google.com' },
+  { label: 'Services', href: 'https://www.google.com' },
+  { label: 'Use Cases', href: 'https://www.google.com' },
+  { label: 'Pricing', href: 'https://www.google.com' },
+  { label: 'Blog', href: 'https://www.google.com' },
 ]
 
 export default function NavBar() {
